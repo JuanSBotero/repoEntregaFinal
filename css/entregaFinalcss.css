@@ -3,13 +3,19 @@
   padding: 0;
   box-sizing: border-box; }
 
+/*
 h1 {
-  color: blue; }
-  h1 p {
-    color: yellowgreen; }
+    color: blue;
+
+    p{
+        color: yellowgreen;
+    }
+}
 
 img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem; }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+*/
